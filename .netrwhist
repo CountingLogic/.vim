@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/sagarmalhotra/language-compilation/Code'
+let g:netrw_dirhist_6='/Users/sagarmalhotra/language-compilation/Code/Luciano_Idea'
+let g:netrw_dirhist_5='/Users/sagarmalhotra/lwmc-ijcai-2021'
+let g:netrw_dirhist_4='/Users/sagarmalhotra/papers/lifted_model_counting/ARC/incal/incal'
+let g:netrw_dirhist_3='/Users/sagarmalhotra/Documents/Reports/SAT_SMT_VEDIOS'
+let g:netrw_dirhist_2='/Applications'
+let g:netrw_dirhist_1='/Applications/Skim.app'

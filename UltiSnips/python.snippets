@@ -1,0 +1,48 @@
+snippet not "Not"
+¬
+endsnippet
+
+snippet and "And"
+∧
+endsnippet
+
+snippet or "OR"
+∨
+endsnippet 
+
+snippet implies "implies"
+→
+endsnippet
+
+snippet forall "Forall"
+∀
+endsnippet
+
+snippet exists "Exist"
+∃
+endsnippet
+
+
+
+
+
+
+
+
+
+
+snippet cl "Class"
+	class ${1:ClassName}(${2:object}):
+		"""${3:docstring for $1}"""
+		def __init__(self, ${4:arg}):
+			${5:super($1, self).__init__()}
+			self.$4 = $4
+			${0}
+endsnippet
+
+
+snippet Numpy "NUmpy"
+import numpy as np
+
+endsnippet
+
